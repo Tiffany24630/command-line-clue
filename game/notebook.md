@@ -6,7 +6,7 @@
 - [ ] The Tailor
 
 ## Weapons
-- [ ] Heavy Book
+- [x] Heavy Book
 - [X] Brass Candlestick
 - [ ] Crystal Vase
 
