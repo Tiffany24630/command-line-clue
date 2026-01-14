@@ -7,11 +7,9 @@
 
 ## Weapons
 - [ ] Heavy Book
-- [ ] Brass Candlestick
+- [X] Brass Candlestick
 - [ ] Crystal Vase
 
 ## Notes
 *Use this space to record your findings and deductions...*
 The crime scene is the living room in the Residential Area.
-
-Location of the crime is still unknown - the room must have been empty when it happened...
