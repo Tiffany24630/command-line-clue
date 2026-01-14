@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Florist
 - [x] The Musician
-- [ ] The Tailor
+- [X] The Tailor
 
 ## Weapons
 - [x] Heavy Book
