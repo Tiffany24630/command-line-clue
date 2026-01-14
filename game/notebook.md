@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Florist
-- [ ] The Musician
+- [x] The Musician
 - [ ] The Tailor
 
 ## Weapons
